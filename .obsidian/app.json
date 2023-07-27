@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "useTab": false,
+  "tabSize": 4,
+  "spellcheckLanguages": [
+    "zh-CN",
+    "en-US"
+  ]
+}

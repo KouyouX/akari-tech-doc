@@ -1,0 +1,126 @@
+{
+  "main": {
+    "id": "0fcfb81a8294523a",
+    "type": "split",
+    "children": [
+      {
+        "id": "2028938089bb8e3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6ff2d1a143aa0a29",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b7f608801795ae2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "fdef9aacc31479bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "927a05ddc2362a22",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "67dcec20ba9a425b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3a455c78355b8cf6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "415baa4bfa29a3f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "2202bb9b698c448e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bd98e7dce76b1dce",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1fbd3636533eba4b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6ff2d1a143aa0a29",
+  "lastOpenFiles": [
+    "AkariTech/能量.md",
+    "AkariTech/机器.md",
+    "新建文本文档.txt",
+    "AkariTech/工艺系统.md",
+    "AkariTech/材料.md",
+    "未命名.md",
+    "AkariTech"
+  ]
+}
