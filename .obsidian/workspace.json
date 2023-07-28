@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2028938089bb8e3a",
+        "id": "b77546ecce97f6ee",
         "type": "tabs",
         "children": [
           {
-            "id": "6ff2d1a143aa0a29",
+            "id": "10833130b5e66d03",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -93,6 +93,33 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "1a12be50dc57a1a6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a198e47849ca12a7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -109,17 +136,17 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "markdown-importer:打开 Markdown 格式转换器": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "6ff2d1a143aa0a29",
+  "active": "10833130b5e66d03",
   "lastOpenFiles": [
+    "AkariTech/材料.md",
     "AkariTech/能量.md",
     "AkariTech/机器.md",
-    "新建文本文档.txt",
     "AkariTech/工艺系统.md",
-    "AkariTech/材料.md",
+    "铁氧体.md",
+    "新建文本文档.txt",
     "未命名.md",
     "AkariTech"
   ]
