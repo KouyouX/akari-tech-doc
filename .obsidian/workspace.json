@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b77546ecce97f6ee",
+        "id": "57f4523ce38b0999",
         "type": "tabs",
         "children": [
           {
-            "id": "10833130b5e66d03",
+            "id": "d819ea3927956165",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AkariTech/材料.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -91,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AkariTech/材料.md"
+              }
             }
           },
           {
@@ -100,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AkariTech/材料.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,6 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AkariTech/材料.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,11 +147,13 @@
       "markdown-importer:打开 Markdown 格式转换器": false
     }
   },
-  "active": "10833130b5e66d03",
+  "active": "d819ea3927956165",
   "lastOpenFiles": [
-    "AkariTech/材料.md",
-    "AkariTech/能量.md",
     "AkariTech/机器.md",
+    "AkariTech/材料.md",
+    "AkariTech/SUMMARY.md",
+    "AkariTech/README.md",
+    "AkariTech/能量.md",
     "AkariTech/工艺系统.md",
     "铁氧体.md",
     "新建文本文档.txt",
