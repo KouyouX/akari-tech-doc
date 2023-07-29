@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AkariTech/材料.md",
+                "file": "AkariTech/机器.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AkariTech/材料.md"
+                "file": "AkariTech/机器.md"
               }
             }
           },
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AkariTech/材料.md",
+                "file": "AkariTech/机器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AkariTech/材料.md",
+                "file": "AkariTech/机器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -149,12 +149,12 @@
   },
   "active": "d819ea3927956165",
   "lastOpenFiles": [
-    "AkariTech/机器.md",
+    "AkariTech/工艺系统.md",
     "AkariTech/材料.md",
+    "AkariTech/机器.md",
     "AkariTech/SUMMARY.md",
     "AkariTech/README.md",
     "AkariTech/能量.md",
-    "AkariTech/工艺系统.md",
     "铁氧体.md",
     "新建文本文档.txt",
     "未命名.md",
